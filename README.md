@@ -8,4 +8,6 @@ Due to github's file size constraints, example data for running these codes, alo
 
 Individual instructions for running each section of this code can be found within the folders.
 
+The code and data are both under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+
 Contact jz848@cornell.edu with questions.
