@@ -4,7 +4,7 @@ This repository contains the code associated with the paper 'STRAINS: A Big Data
 
 The contents of this repository include: tracking and intensity analysis MATLAB codes, a MATLAB graphical user interface for analyzing videos, and time series classification codes written in Python to make use of the sktime library (found here: https://www.sktime.org/en/latest/).
 
-Due to github's file size constraints, example data for running these codes, along with an example video of the GUI in action can be found at the Cornell eCommons repository here:
+Due to github's file size constraints, example data for running these codes, along with an example video of the GUI in action can be found at the Cornell eCommons repository here: https://doi.org/10.7298/3kwt-pm43
 
 Individual instructions for running each section of this code can be found within the folders.
 
