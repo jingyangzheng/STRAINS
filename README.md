@@ -31,8 +31,8 @@ Recommended citation for this dataset: attribution to the copyright holder (Jing
 ### DATA & FILE OVERVIEW
 
 #### STRAINS GUI
-	cellGUI_preMATLAB2019: older version of the app that uses a workaround for click detection, not recommended
-	STRAINS_GUI: present version of the GUI, requires MATLAB 2019a or newer
+cellGUI_preMATLAB2019: older version of the app that uses a workaround for click detection, not recommended  
+STRAINS_GUI: present version of the GUI, requires MATLAB 2019a or newer  
 
 #### Matlab Codes
 all_tracking_function_calls: demonstration of function call usage, all parameter are input here and example parameters are included  
