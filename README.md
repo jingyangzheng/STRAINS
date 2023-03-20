@@ -58,5 +58,5 @@ classifier_functions: all functions associated with the time series classificati
 requires sktime
 	
 #### METHODOLOGICAL INFORMATION
-A detailed description can be found in the methods section and supplementary documents of https://www.biorxiv.org/content/10.1101/2022.06.12.495830v2  
+A detailed description can be found in the methods section and supplementary documents of the publication associated with this code, which can be found at: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278626 or https://www.biorxiv.org/content/10.1101/2022.06.12.495830v2  
 Slidebook images (.sld) were converted into .tiff files and then either 8-bit (impact image) or RGB color (all other images) in ImageJ/Fiji before the MATLAB code is run
